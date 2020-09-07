@@ -43,7 +43,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2ebf9', end
 	padding: 20px;
 	text-decoration: none;
 	background: #000;
-	font-family: arial;
+	font-family: oswald;
 	font-size: 18px;
 
 
@@ -87,7 +87,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2ebf9', end
 
 #contenido-a {
 	width: 400px;
-	min-height: 1530px; 
+	min-height: 1620px; 
 	background: #ccc;
 	float: left;¨
 
@@ -253,11 +253,16 @@ ul.slider li:target {
 
 }
 
+
+
+
 #contenido p {
    margin-bottom: 10px;
-   font-family: arial;
+   font-family: oswald;
    font-size:18px;
    text-align: justify;
+
+   
 
 
 
@@ -276,7 +281,7 @@ ul.slider li:target {
    float: center;
    margin-right: 50px;
    margin-bottom: 50px;
-   width: 400px;
+   width: 500px;
    border: 20px solid #ccc;
    padding: 5px;
 }
@@ -293,11 +298,11 @@ div {
 .redes h2 {
 	color: #fff;
 	text-align: center;
-    padding-top: 40px;
+  padding-top: 100px;
 	padding: 10px;
 	text-decoration: none;
 	background: #000;
-	font-family: arial;
+	font-family: oswald;
 	font-size: 20px;
 
 
