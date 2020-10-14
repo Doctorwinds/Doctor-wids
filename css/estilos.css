@@ -22,7 +22,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2ebf9', end
 }
 
 #logo img:hover {
-	filter: grayscale(100);
+	
 }
 #menu-h {
 	max-width: 1000px;
