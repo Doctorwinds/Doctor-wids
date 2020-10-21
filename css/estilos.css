@@ -1,17 +1,17 @@
 * {
-	margin: 0;
-	padding:0;
-}	
+  margin: 0;
+  padding:0;
+} 
 
 body {
-	background: url("https://i.pinimg.com/originals/fe/da/58/feda5821c2b09816d0b622c7fec047d9.jpg")
-}	
+  background: url("https://i.pinimg.com/originals/fe/da/58/feda5821c2b09816d0b622c7fec047d9.jpg")
+} 
 
 header {
-	max-width: 1000px;
-	min-height: 130px;
-	margin: 0 auto;
-	border-radius: 20px 20px 0px 0px;
+  max-width: 1000px;
+  min-height: 130px;
+  margin: 0 auto;
+  border-radius: 20px 20px 0px 0px;
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d2ebf9+3,feffff+22 */
 background: rgb(210,235,249); /* Old browsers */
 background: -moz-linear-gradient(top,  rgba(210,235,249,1) 3%, rgba(254,255,255,1) 22%); /* FF3.6-15 */
@@ -22,76 +22,76 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2ebf9', end
 }
 
 #logo img:hover {
-	
+  
 }
 #menu-h {
-	max-width: 1000px;
-	min-height: 50px; 
-	background: #000;
-	margin: 0 auto;
-}	
+  max-width: 1000px;
+  min-height: 50px; 
+  background: #000;
+  margin: 0 auto;
+} 
 
 #menu-h ul {
-	list-style: none;
-	display: flex;
-	justify-content: left;
-}	
+  list-style: none;
+  display: flex;
+  justify-content: left;
+} 
 
 #menu-h a {
-	color: #fff;
-	display: block;
-	padding: 20px;
-	text-decoration: none;
-	background: #000;
-	font-family: oswald;
-	font-size: 18px;
+  color: #fff;
+  display: block;
+  padding: 20px;
+  text-decoration: none;
+  background: #000;
+  font-family: oswald;
+  font-size: 18px;
 
 
 }
 
 #menu-h a:hover {
-	background: #069;
-}	
+  background: #069;
+} 
 
 #menu-h a:hover img {
-	animation: 1s rotacion 1;
-}	
+  animation: 1s rotacion 1;
+} 
 
 
 #menu-h ul ul{
-	display: none;
-	position: absolute;
+  display: none;
+  position: absolute;
 }
 
 #menu-h ul li:hover ul{
-	display: block;
+  display: block;
 }
 
 
 
 
 #banner {
-	max-width: 1000px;
-	min-height: 250px; 
-	background: #444;
-	margin: 0 auto;
+  max-width: 1000px;
+  min-height: 250px; 
+  background: #444;
+  margin: 0 auto;
 }
 
 #contenedor {
-	max-width: 1000px;
-	min-height: 700px; 
-	background: #fff;
-	margin: 0 auto;
+  max-width: 1000px;
+  min-height: 700px; 
+  background: #fff;
+  margin: 0 auto;
 
-}	
+} 
 
 #contenido-a {
-	width: 400px;
-	min-height: 1976px; 
-	background: #ccc;
-	float: left;¨
+  width: 400px;
+  min-height: 1976px; 
+  background: #ccc;
+  float: left;¨
 
-	}
+  }
 
 
 
@@ -217,27 +217,27 @@ ul.slider li:target {
   border-radius: 100%;
 }
 
-		
+    
 
 #contenido-a h1 {
    text-align: center;
    margin-bottom: 30px;
    margin-top: 30px;
    size: 50px;
-}		
+}   
 
 
 
 #contenido {
-	width: 600px;
-	min-height: 1530px; 
+  width: 600px;
+  min-height: 1530px; 
     display: table-column;
     background: #fff;
-	float: right;
-	padding: 15px;
-	box-sizing: border-box;
+  float: right;
+  padding: 15px;
+  box-sizing: border-box;
 
-}		
+}   
 #contenido h1 {
    text-align: center;
    margin-bottom: 30px;
@@ -287,47 +287,47 @@ ul.slider li:target {
 }
 
 div {
-	max-width: 1000px;
-	min-height: 130px;
-	background: #000;
-	margin: 0 auto;
-	border-radius:  0px 0px 20px 20px;
-	padding: 1px;
+  max-width: 1000px;
+  min-height: 130px;
+  background: #000;
+  margin: 0 auto;
+  border-radius:  0px 0px 20px 20px;
+  padding: 1px;
 }
 
 .redes h2 {
-	color: #fff;
-	text-align: center;
+  color: #fff;
+  text-align: center;
   padding-top: 100px;
-	padding: 10px;
-	text-decoration: none;
-	background: #000;
-	font-family: oswald;
-	font-size: 20px;
+  padding: 10px;
+  text-decoration: none;
+  background: #000;
+  font-family: oswald;
+  font-size: 20px;
 
 
 }
 
 .sociales {
-	text-align: center;
-	padding-top: 40px;
-	padding-bottom: 40px;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
 
 }
 
 .sociales li {
-	display: inline-block;
-	
+  display: inline-block;
+  
 }
 
 .sociales a {
-	padding: 15px;
-	
+  padding: 15px;
+  
 }
 
 
 @keyframes rotacion {
      0%{
-     	transform: rotate(270deg);
-     }	
+      transform: rotate(270deg);
+     }  
 }
